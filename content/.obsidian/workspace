@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "13bfcb38884b25d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "62d64552ac4d6e5c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "posts/B 端产品经理的能力模型与学习提升.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "733e46a4b967e185",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea91cb2a6dc0fc86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73b64dc2a56c578d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6387ba3c61132af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb3359a9ea78bdf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "78d10fa246a3dd96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dd579cb79e619c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/B 端产品经理的能力模型与学习提升.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "62d64552ac4d6e5c",
+  "lastOpenFiles": [
+    "posts/B 端产品经理的能力模型与学习提升.md",
+    "posts/如何构建一个通用的调研模板（不断优化中）.md",
+    "homepage/vintage.md",
+    "homepage/pages.md",
+    "homepage/index.md",
+    "homepage/experiences.md",
+    "homepage/about.md",
+    "docs/example-doc/chapter-2.md",
+    "docs/example-doc/chapter-1.md",
+    "docs/example-doc/_index.md"
+  ]
+}

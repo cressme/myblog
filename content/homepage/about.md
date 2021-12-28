@@ -10,13 +10,13 @@ organization:
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
+    url: mailto:herrisen@pm.com
   - icon: twitter
     iconPack: fab
-    url: https://example.com/
+    url: 
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: 
 
 weight: 1
 widget:
