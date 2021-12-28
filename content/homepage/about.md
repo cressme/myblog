@@ -2,7 +2,7 @@
 title: Herrisen
 draft: false
 role: 产品经理
-avatar: images/avatar.png
+avatar: images/icon.jpg
 bio: 关注工具产品、食知动物
 organization:
   name: Example Organization
@@ -10,13 +10,13 @@ organization:
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:herrisen@pm.com
+    url: mailto:example@example.com
   - icon: twitter
     iconPack: fab
-    url: 
+    url: https://example.com/
   - icon: github
     iconPack: fab
-    url: 
+    url: https://example.com/
 
 weight: 1
 widget:

@@ -1,6 +1,6 @@
 ---
-title: 如何构建一个通用的调研模板（不断优化中）
-description: 整理工作上需要的调研方法，实践一个专门的调研流程
+title: B端产品经理的能力模型与学习提升
+description: B端产品需要学习的一些内容
 toc: true
 authors:
   - herrisen
