@@ -1,14 +1,14 @@
 ---
 title: herrisen
 role: Example Role
-bio: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos.
+bio: 产品经理，效率匮乏症，拖延症晚期.
 organization:
   name: Example Organization
   url: https://example.com/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
+    url: mailto:cressme@live.com
   - icon: twitter
     iconPack: fab
     url: https://example.com/
