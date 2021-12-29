@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "homepage/about.md",
+            "file": "homepage/experiences.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "anything",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homepage/about.md",
+                "file": "homepage/experiences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "62d64552ac4d6e5c",
   "lastOpenFiles": [
+    "homepage/experiences.md",
     "homepage/about.md",
+    "homepage/index.md",
+    "homepage/vintage.md",
     "posts/featured-image.md",
     "posts/用户需要一段社交关系，而不是社交软件.md",
     "posts/Soul 拆解，一款趋近于元宇宙的语音社交产品.md",
     "posts/现象规律、社交货币和产品视角.md",
     "posts/社交的吸引力落差.md",
-    "posts/陌生人社交平台到底要解决什么问题.md",
-    "posts/B 端产品经理的能力模型与学习提升.md",
-    "posts/从陌生人社交的 25 年发展史来看看荷尔蒙生意的 “命运签”.md",
-    "posts/Format your notes - Obsidian Help.md"
+    "posts/陌生人社交平台到底要解决什么问题.md"
   ]
 }
