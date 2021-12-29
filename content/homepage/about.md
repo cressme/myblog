@@ -11,7 +11,7 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:example@example.com
-  - icon: twitter
+  - icon: phone
     iconPack: fab
     url: https://example.com/
   - icon: github
