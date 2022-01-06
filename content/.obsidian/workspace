@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "62d64552ac4d6e5c",
+        "id": "069dabe871b36fff",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "homepage/experiences.md",
+            "file": "posts/最近收集的一些即刻上的信息.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anything",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homepage/experiences.md",
+                "file": "posts/最近收集的一些即刻上的信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "62d64552ac4d6e5c",
+  "active": "069dabe871b36fff",
   "lastOpenFiles": [
-    "homepage/experiences.md",
-    "homepage/about.md",
-    "homepage/index.md",
-    "homepage/vintage.md",
-    "posts/featured-image.md",
-    "posts/用户需要一段社交关系，而不是社交软件.md",
-    "posts/Soul 拆解，一款趋近于元宇宙的语音社交产品.md",
-    "posts/现象规律、社交货币和产品视角.md",
+    "posts/最近收集的一些即刻上的信息.md",
+    "renzhi.jpg.md",
+    "Fk2-Bp9JLOhSVixUaoTJ3bJbIND7v2.jpg",
+    "posts/陌生人社交平台到底要解决什么问题.md",
     "posts/社交的吸引力落差.md",
-    "posts/陌生人社交平台到底要解决什么问题.md"
+    "posts/featured-image.md",
+    "模板/post模板-图片.md",
+    "模板/post模板-文本.md",
+    "模板/日期.md",
+    "posts/最近收集的一些即刻的信息.md"
   ]
 }
