@@ -2,7 +2,7 @@
 title: Herrisen
 draft: false
 role: 产品经理
-avatar: images/touxiang.jpg
+avatar: images/touxiang.png
 bio: 关注工具产品、食知动物
 organization:
   name: Example Organization
