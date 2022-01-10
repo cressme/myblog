@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/最近收集的一些即刻上的信息.md",
+            "file": "posts/社区设计指南 V0.2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/最近收集的一些即刻上的信息.md",
+                "file": "posts/社区设计指南 V0.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "069dabe871b36fff",
   "lastOpenFiles": [
+    "posts/社区设计指南 V0.2.md",
+    "posts/用户需要一段社交关系，而不是社交软件.md",
     "posts/最近收集的一些即刻上的信息.md",
+    "posts/未命名.md",
     "模板/日期.md",
     "picture/Fk2-Bp9JLOhSVixUaoTJ3bJbIND7v2.jpg",
     "renzhi.jpg.md",
     "posts/陌生人社交平台到底要解决什么问题.md",
     "posts/社交的吸引力落差.md",
-    "posts/featured-image.md",
-    "模板/post模板-图片.md",
-    "模板/post模板-文本.md",
-    "posts/最近收集的一些即刻的信息.md"
+    "posts/featured-image.md"
   ]
 }
