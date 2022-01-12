@@ -1,12 +1,10 @@
 ---
 title: Herrisen
 draft: false
-role: 产品经理
+role: 产品设计
 avatar: images/touxianga.jpg
-bio: 关注工具产品、食知动物
-organization:
-  name: Example Organization
-  url: https://example.com/
+bio: 关注工具，直播，社区社交产品、食知动物、web3 懵逼中。
+
 social:
   - icon: envelope
     iconPack: fas
