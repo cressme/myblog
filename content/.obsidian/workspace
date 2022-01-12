@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/社区设计指南 V0.2.md",
+            "file": "posts/日常对于一些产品设计的思考.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/社区设计指南 V0.2.md",
+                "file": "posts/日常对于一些产品设计的思考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "069dabe871b36fff",
   "lastOpenFiles": [
+    "posts/日常对于一些产品设计的思考.md",
     "posts/社区设计指南 V0.2.md",
     "posts/用户需要一段社交关系，而不是社交软件.md",
     "posts/最近收集的一些即刻上的信息.md",
@@ -97,7 +98,6 @@
     "picture/Fk2-Bp9JLOhSVixUaoTJ3bJbIND7v2.jpg",
     "renzhi.jpg.md",
     "posts/陌生人社交平台到底要解决什么问题.md",
-    "posts/社交的吸引力落差.md",
-    "posts/featured-image.md"
+    "posts/社交的吸引力落差.md"
   ]
 }
