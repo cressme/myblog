@@ -10,13 +10,10 @@ organization:
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
-  - icon: phone
-    iconPack: fab
-    url: https://example.com/
-  - icon: github
-    iconPack: fab
-    url: https://example.com/
+    url: mailto:herrisen@pm.me
+  - icon: blog
+    iconPack: fas
+    url: https://web.okjike.com/u/C34E3629-9823-474D-B206-722B44234858
 
 weight: 1
 widget:
