@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/设计模式笔记.md",
+            "file": "homepage/vintage.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/设计模式笔记.md",
+                "file": "homepage/vintage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "069dabe871b36fff",
   "lastOpenFiles": [
+    "homepage/vintage.md",
+    "homepage/about.md",
+    "homepage/pages.md",
+    "picture/Fk2-Bp9JLOhSVixUaoTJ3bJbIND7v2.jpg",
+    "homepage/index.md",
+    "homepage/experiences.md",
+    "authors/herrisen/_index.md",
     "posts/设计模式笔记.md",
     "posts/日常对于一些产品设计的思考.md",
-    "posts/最近收集的一些即刻上的信息.md",
-    "posts/社区设计指南 V0.2.md",
-    "homepage/about.md",
-    "posts/陌生人社交平台到底要解决什么问题.md",
-    "posts/社交的吸引力落差.md",
-    "posts/现象规律、社交货币和产品视角.md",
-    "posts/Soul 拆解，一款趋近于元宇宙的语音社交产品.md",
-    "posts/用户需要一段社交关系，而不是社交软件.md"
+    "posts/社区设计指南 V0.2.md"
   ]
 }
