@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "homepage/vintage.md",
+            "file": "homepage/pages.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homepage/vintage.md",
+                "file": "homepage/pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "069dabe871b36fff",
   "lastOpenFiles": [
-    "homepage/vintage.md",
-    "homepage/about.md",
     "homepage/pages.md",
-    "picture/Fk2-Bp9JLOhSVixUaoTJ3bJbIND7v2.jpg",
+    "homepage/vintage.md",
     "homepage/index.md",
     "homepage/experiences.md",
+    "homepage/about.md",
     "authors/herrisen/_index.md",
+    "docs/_index.md",
+    "picture/Fk2-Bp9JLOhSVixUaoTJ3bJbIND7v2.jpg",
     "posts/设计模式笔记.md",
-    "posts/日常对于一些产品设计的思考.md",
-    "posts/社区设计指南 V0.2.md"
+    "posts/日常对于一些产品设计的思考.md"
   ]
 }
